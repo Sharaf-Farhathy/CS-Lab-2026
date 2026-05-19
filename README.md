@@ -16,12 +16,6 @@ Clone this repository:
 git clone https://github.com/sadewnethsara/CS-Lab-2026.git
 ```
 
-### How to Open the Jupyter Notebook
-1. Make sure you have [Python](https://www.python.org/) installed.
-2. Install Jupyter Notebook by running `pip install notebook` in your terminal.
-3. Open a terminal in the root folder of this repository.
-4. Run `jupyter notebook` and navigate to the `Day01/notebooks/` folder to open `Day01_Exercises_1-8.ipynb`. (Alternatively, you can open it directly in VS Code by installing the Jupyter extension).
-
 ## Contents
 
 This repository includes:

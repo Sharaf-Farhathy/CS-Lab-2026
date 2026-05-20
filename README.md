@@ -32,7 +32,7 @@ Tips:
 
 ## Contact
 
-Author: Sadew Nethsara
+Author: Sadew Nethsara.
 
 ---
 
